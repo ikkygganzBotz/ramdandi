@@ -901,10 +901,10 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 ━━━━━ *INFO BOT* ━━━━━
-❏ NAMA : *BOT ツˣᴿᶻズガx*
-❏ API : *@6281331222400-@6281331222400*
-❏ OWNER : *XrzzZ✓*
-❏ API : *@6281331222400*
+❏ NAMA : *RAMDANI BOTZ*
+❏ API : *@6288975996370-@6288296339947*
+❏ OWNER : *RAMDANI OFFICIAL*
+❏ API : *@6289512545999*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
 ❏ PREIFIX : *『> multi prefix <』*
@@ -1404,7 +1404,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
                buttonsMessage = {
                contentText: `${allmenu}`,
-               footerText: 'ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴅᴏɴᴀsɪ ʏᴀ ᴛᴏᴛ, ᴄᴀᴘᴇ ᴄᴏᴅɪɴɢ ᴛᴇʀᴜs:ᴠ\nᴅᴀɴ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢʀᴜᴘ ɢᴡ ʏᴀ ᴛᴏᴛ\nɢʀᴜᴘ ᴏғғɪᴄɪᴀʟ ʏᴛ ʀᴀᴍᴅᴀɴɪ : https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J\n© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: 'ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴅᴏɴᴀsɪ ʏᴀ ᴛᴏᴛ, ᴄᴀᴘᴇ ᴄᴏᴅɪɴɢ ᴛᴇʀᴜs:ᴠ\nᴅᴀɴ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢʀᴜᴘ ɢᴡ ʏᴀ ᴛᴏᴛ\nɢʀᴜᴘ ᴏғғɪᴄɪᴀʟ ʏᴛ ʀᴀᴍᴅᴀɴɪ : https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7\n© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -2016,10 +2016,10 @@ Ket : Ketik /resetgame , Untuk Mereset Permainan Yg Ada Di Grup!`, text, {contex
 case 'bayar':
 gopeynya = 'https://i.ibb.co/kynNYTh/Ramdani2.jpg'
 teksnya = `*[ PAYMENT ]*
-*Gopay :* 082124245042
-*Dana :* 082124245042
-*Ovo :* 082124245042
-*[ © ツˣᴿᶻズガx ]*`
+*Gopay :* 089512545999
+*Dana :* 089512545999
+*Ovo :* 089512545999
+*[ © ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙ ]*`
         Ramdani.sendMessage(from, await getBuffer(gopeynya), image, {quoted: ftoko, caption: teksnya })
               break
 //--------------------<const menu>--------------------
