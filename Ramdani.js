@@ -1404,7 +1404,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
                buttonsMessage = {
                contentText: `${allmenu}`,
-               footerText: 'ツˣᴿᶻズガxs:ᴠ\nツˣᴿᶻズガx\nツˣᴿᶻズガx : https://chat.whatsapp.com/GeewK3ltvNN4GDHOEtR2Mk\n© MellCanzz', imageMessage: imageMsg,
+               footerText: 'LinK:ᴠ\nGc bot\nDibawah : https://chat.whatsapp.com/GeewK3ltvNN4GDHOEtR2Mk\n© MellCanzz', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
