@@ -1404,7 +1404,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
                buttonsMessage = {
                contentText: `${allmenu}`,
-               footerText: 'ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴅᴏɴᴀsɪ ʏᴀ ᴛᴏᴛ, ᴄᴀᴘᴇ ᴄᴏᴅɪɴɢ ᴛᴇʀᴜs:ᴠ\nᴅᴀɴ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢʀᴜᴘ ɢᴡ ʏᴀ ᴛᴏᴛ\nɢʀᴜᴘ ᴏғғɪᴄɪᴀʟ ʏᴛ ʀᴀᴍᴅᴀɴɪ : https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7\n© MellCanzz', imageMessage: imageMsg,
+               footerText: 'ツˣᴿᶻズガxs:ᴠ\nツˣᴿᶻズガx\nツˣᴿᶻズガx : https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J\n© MellCanzz', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
