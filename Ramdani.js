@@ -91,7 +91,7 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 petik = '```'
-fake = '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙'
+fake = '© Mellcanzz'
 batre = 'tidak terdeteksi'
 api = 'Ramdani Official'
 github = 'RamdaniOfficial'
@@ -856,7 +856,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
     『 BOT INFO 』
 
-⛱ Device : xiaomi redmi 4A 
+⛱ Device : Itel vision 1 pro 
 🗺 Wa Version : 2.22.3.77
 💬 OS Version : 10
 ♍ MNC : 009
@@ -865,7 +865,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 📳 Mode : public mode
 ☢ Prefix : > multi prefix <
 🔋 baterai bot : ${baterai}%
-👨💻 Name Creator : Ramdani Official
+🧕💻 Name Creator : mellcanzz
 
 
        『 USER INFO 』
@@ -901,9 +901,9 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 ━━━━━ *INFO BOT* ━━━━━
-❏ NAMA : *RAMDANI BOTZ*
+❏ NAMA : *BOT ツˣᴿᶻズガx*
 ❏ API : *@6288975996370-@6288296339947*
-❏ OWNER : *RAMDANI OFFICIAL*
+❏ OWNER : *mellcanzz*
 ❏ API : *@6289512545999*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
@@ -1404,7 +1404,7 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
                buttonsMessage = {
                contentText: `${allmenu}`,
-               footerText: 'ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴅᴏɴᴀsɪ ʏᴀ ᴛᴏᴛ, ᴄᴀᴘᴇ ᴄᴏᴅɪɴɢ ᴛᴇʀᴜs:ᴠ\nᴅᴀɴ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢʀᴜᴘ ɢᴡ ʏᴀ ᴛᴏᴛ\nɢʀᴜᴘ ᴏғғɪᴄɪᴀʟ ʏᴛ ʀᴀᴍᴅᴀɴɪ : https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7\n© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: 'ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴅᴏɴᴀsɪ ʏᴀ ᴛᴏᴛ, ᴄᴀᴘᴇ ᴄᴏᴅɪɴɢ ᴛᴇʀᴜs:ᴠ\nᴅᴀɴ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢʀᴜᴘ ɢᴡ ʏᴀ ᴛᴏᴛ\nɢʀᴜᴘ ᴏғғɪᴄɪᴀʟ ʏᴛ ʀᴀᴍᴅᴀɴɪ : https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7\n© MellCanzz', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -2004,7 +2004,7 @@ Ket : Ketik /resetgame , Untuk Mereset Permainan Yg Ada Di Grup!`, text, {contex
        case 'sewabot2':
               gopeynya = 'https://i.ibb.co/kynNYTh/Ramdani2.jpg'
               teksnya = `*[ PRICE LIST ]*
-*Sewa Bot © ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙*
+*Sewa Bot © Mellcanzz*
 *1 Hari :* 2K
 *1 Minggu :* 10K
 *1 Bulan :* 20K
@@ -2016,10 +2016,10 @@ Ket : Ketik /resetgame , Untuk Mereset Permainan Yg Ada Di Grup!`, text, {contex
 case 'bayar':
 gopeynya = 'https://i.ibb.co/kynNYTh/Ramdani2.jpg'
 teksnya = `*[ PAYMENT ]*
-*Gopay :* 089512545999
-*Dana :* 089512545999
-*Ovo :* 089512545999
-*[ © ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙ ]*`
+*Gopay :* 082124245042
+*Dana :* 082124245042
+*Ovo :* 082124245042
+*[ © ツˣᴿᶻズガx ]*`
         Ramdani.sendMessage(from, await getBuffer(gopeynya), image, {quoted: ftoko, caption: teksnya })
               break
 //--------------------<const menu>--------------------
@@ -5073,7 +5073,7 @@ case 'quotesdilan':
 2700💎=Rp.570.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_© Creator By Ramdani Official_*    
+ *_© Creator By mellcanzz*    
 ➖➖➖➖➖➖➖➖➖➖➖`
                buttons = [{buttonId: `${prefix}allmenu`,buttonText:{displayText: 'ᴀʟʟᴍᴇɴᴜ'},type:1},{buttonId: `${prefix}donasi`,buttonText:{displayText: 'ᴅᴏɴᴀsɪ'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'ᴀᴜᴛʜᴏʀ'},type:1}]
 
@@ -5081,7 +5081,7 @@ case 'quotesdilan':
 
                buttonsMessage = {
                contentText: `${emel}`,
-               footerText: '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: '© MellcanZz', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -5124,7 +5124,7 @@ MM : 28.000
 MB  : 140.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_©Creator by Ramdani Official_*    
+ *_©Creator by mellcanzz_*    
 ➖➖➖➖➖➖➖➖➖➖➖`
                buttons = [{buttonId: `${prefix}allmenu`,buttonText:{displayText: 'ᴀʟʟᴍᴇɴᴜ'},type:1},{buttonId: `${prefix}donasi`,buttonText:{displayText: 'ᴅᴏɴᴀsɪ'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'ᴀᴜᴛʜᴏʀ'},type:1}]
 
@@ -5132,7 +5132,7 @@ MB  : 140.000
 
                buttonsMessage = {
                contentText: `${epep}`,
-               footerText: '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: '© ツˣᴿᶻズガx', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -5155,7 +5155,7 @@ MB  : 140.000
 - 🎟️240 = Rp56.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_©Creator By Ramdani Official_*    
+ *_©Creator By Mellcanzz_*    
 ➖➖➖➖➖➖➖➖➖➖➖`
                buttons = [{buttonId: `${prefix}allmenu`,buttonText:{displayText: 'ᴀʟʟᴍᴇɴᴜ'},type:1},{buttonId: `${prefix}donasi`,buttonText:{displayText: 'ᴅᴏɴᴀsɪ'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'ᴀᴜᴛʜᴏʀ'},type:1}]
 
@@ -5163,7 +5163,7 @@ MB  : 140.000
 
                buttonsMessage = {
                contentText: `${peubege}`,
-               footerText: '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: '© ツˣᴿᶻズガx', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -5185,7 +5185,7 @@ MB  : 140.000
 sedang membuat list harga
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_© Creator By Ramdani Official_*    
+ *_© Creator By mellcanzz_*    
 ➖➖➖➖➖➖➖➖➖➖➖`
                buttons = [{buttonId: `${prefix}allmenu`,buttonText:{displayText: 'ᴀʟʟᴍᴇɴᴜ'},type:1},{buttonId: `${prefix}donasi`,buttonText:{displayText: 'ᴅᴏɴᴀsɪ'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'ᴀᴜᴛʜᴏʀ'},type:1}]
 
@@ -5193,7 +5193,7 @@ sedang membuat list harga
 
                buttonsMessage = {
                contentText: `${pb}`,
-               footerText: '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: '© ツˣᴿᶻズガx', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -5213,7 +5213,7 @@ sedang membuat list harga
 list harga belum di tambahin mager gw asu
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_© Creator By Ramdani Official_*    
+ *_© Creator By mellcanzz_*    
 ➖➖➖➖➖➖➖➖➖➖➖`
                buttons = [{buttonId: `${prefix}allmenu`,buttonText:{displayText: 'ᴀʟʟᴍᴇɴᴜ'},type:1},{buttonId: `${prefix}donasi`,buttonText:{displayText: 'ᴅᴏɴᴀsɪ'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'ᴀᴜᴛʜᴏʀ'},type:1}]
 
@@ -5221,7 +5221,7 @@ list harga belum di tambahin mager gw asu
 
                buttonsMessage = {
                contentText: `${sosis}`,
-               footerText: '© ᴄʀᴇᴀᴛᴏʀ ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ⸙', imageMessage: imageMsg,
+               footerText: '© ツˣᴿᶻズガx', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -5232,19 +5232,19 @@ list harga belum di tambahin mager gw asu
                 
 //payment                
       case 'dana':
-             reply(`DANA : 089512545999`)
+             reply(`DANA : 082124245042`)
              break
            case 'gopay':
-             reply(`*Goopay :* 089512545999`)
+             reply(`*Goopay :* 082124245042`)
              break  
          case 'pulsa':
-             reply(`*Pulsa :* 089512545999`)
+             reply(`*Pulsa :* 083830815715`)
              break              
       case 'infoig':
-             reply(`Follow Instagram Owner Ya : https://www.instagram.com/muhammadramdani196453`)
+             reply(`Follow Instagram Owner Ya : https://www.instagram.com/mellcanzz`)
              break
-      case 'grupbot':
-             reply('https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7')
+      case 'Grupgw':
+             reply('https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J')
              break
 //case menu
       case 'ownermenu':
